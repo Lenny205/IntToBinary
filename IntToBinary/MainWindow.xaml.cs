@@ -5,6 +5,7 @@ namespace IntToBinary
 {
 	/// <summary>
 	/// Created by: Leander Dumas
+	/// github.com/LennyIndustries
 	/// </summary>
 	public partial class MainWindow
 	{
