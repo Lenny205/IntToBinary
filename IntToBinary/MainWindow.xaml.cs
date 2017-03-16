@@ -4,7 +4,7 @@ using System.Windows;
 namespace IntToBinary
 {
 	/// <summary>
-	/// Interaction logic for MainWindow.xaml
+	/// Created by: Leander Dumas
 	/// </summary>
 	public partial class MainWindow
 	{
